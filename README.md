@@ -12,8 +12,8 @@ Documentation - Übersicht
 
 ### Wordpress Plugins
 
-- <a href="Wordpress-Plugins/02_PlugIns/01_Shortcode_Webplayer.md">Shortcode LivePlayer (Big Player)</a> //Insatllation und Anwendung des Shortcodes
-- <a href="Wordpress-Plugins/02_PlugIns/03_Widget_Miniplayer.md">Widget Miniplayer (Sidebar)</a> //Insatllation und Anwendung des Widgets
+- <a href="Wordpress-Plugins/02_PlugIns/01_Shortcode_Webplayer.md">Shortcode LivePlayer (Big Player)</a> //Installation und Anwendung des Shortcodes
+- <a href="Wordpress-Plugins/02_PlugIns/03_Widget_Miniplayer.md">Widget Miniplayer (Sidebar)</a> //Installation und Anwendung des Widgets
 
 ### WP Plugins - Downloads
 
